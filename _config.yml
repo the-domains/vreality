@@ -1,0 +1,14 @@
+layout_spectrum: 0.515836
+typography_spectrum: 0.6759949
+color:
+  saturation: 0.881284
+  lightness: 0.3182257
+  brandStrength: 0.6488855
+  rhythmicContrast: 0.04606616
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Vreality
